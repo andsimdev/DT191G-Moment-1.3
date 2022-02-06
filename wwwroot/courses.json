@@ -1,0 +1,42 @@
+[
+    {
+        "code": "DT057G",
+        "coursename": "Webbutveckling I"
+    },
+    {
+        "code": "DT084G",
+        "coursename": "Introduktion till programmering i JavaScript"
+    },
+    {
+        "code": "GD008G",
+        "coursename": "Typografi och form för webb"
+    },
+    {
+        "code": "DT163G",
+        "coursename": "Digital bildbehandling för webb"
+    },
+    {
+        "code": "DT093G",
+        "coursename": "Webbutveckling II"
+    },
+    {
+        "code": "DT003G",
+        "coursename": "Databaser"
+    },
+    {
+        "code": "DT152G",
+        "coursename": "Webbdesign för CMS"
+    },
+    {
+        "code": "DT068G",
+        "coursename": "Webbanvändbarhet"
+    },
+    {
+        "code": "IK060G",
+        "coursename": "Projektledning"
+    },
+    {
+        "code": "DT173G",
+        "coursename": "Webbutveckling III"
+    }
+]

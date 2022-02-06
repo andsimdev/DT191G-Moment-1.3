@@ -1,0 +1,29 @@
+﻿@inherits LayoutComponentBase
+
+<main>
+    <!--Sidhuvud-->
+    <header class="mainheader" id="mainheader">
+        <a href="/">
+            <img src="logo.png" width="300" alt="Logotyp" id="logo" />
+        </a>
+        <Clock/>
+    </header>
+
+    <!--Div för meny och innehåll-->
+    <div class="navcontentdiv">
+        <!--Huvudmeny-->
+        <NavMenu />
+
+        <!--Div för innehåll-->
+        <div class="content" id="content">
+            <!--Skriv ut dynamiskt sidspecifikt innehåll-->
+            @Body
+        </div>
+    </div>
+
+    <!--Sidfot-->
+    <footer>
+        <p>Av Simon Andersson - kontakta mig via e-post: <a
+                href="mailto:sian2001@student.miun.se">sian2001@student.miun.se</a></p>
+    </footer>
+</main>

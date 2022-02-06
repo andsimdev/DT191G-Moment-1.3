@@ -1,0 +1,75 @@
+@page "/convert"
+
+<h1>Konvertering</h1>
+
+<h2>Meter till fot</h2>
+<label for="meter">Meter: </label>
+<br>
+<input type="number" @bind="meter" name="meter">
+<button @onclick="ToFeet">Konvertera till fot</button>
+<p>@message1</p>
+
+@code {
+    // Variabler för inmatat värde (meter), beräknat värde (fot), avrundat beräknat värde och utskrift
+    double meter;
+    double feet;
+    double feetRounded;
+    string? message1;
+
+    // Metod för att konvertera meter till fot
+    private void ToFeet()
+    {
+        // Kontrollera om inmatat värde är mindre än eller lika med 0
+        if (meter <= 0)
+        {
+            // Skriv ut felmeddelande
+            message1 = "Ange antal meter, värdet får ej vara noll eller negativt.";
+        }
+        else
+        {
+            // Mulitplicera inmatat värde (meter med 3.3), lagra resultat i variabel
+            feet = meter * 3.3;
+            // Avrunda beräknat värde till två decimaler, lagra i variabel
+            feetRounded = Math.Round(feet, 2);
+            // Sammanställ utskrift
+            message1 = "Antal fot: " + feetRounded;
+        }
+    }
+}
+
+<br><br>
+
+<h2>km/h till miles/hour</h2>
+<label for="kmh">Km/h: </label>
+<br>
+<input type="number" @bind="kmh" name="kmh">
+<button @onclick="ToMph">Konvertera till miles/hour</button>
+<p>@message2</p>
+
+@code {
+    // Variabler för inmatat värde (km/h), beräknat värde (mph), avrundat beräknat värde och utskrift
+    double kmh;
+    double mph;
+    double mphRounded;
+    string? message2;
+
+    // Metod för att konvertera meter till fot
+    private void ToMph()
+    {
+        // Kontrollera om inmatat värde är mindre än eller lika med 0
+        if (kmh <= 0)
+        {
+            // Skriv ut felmeddelande
+            message2 = "Ange kilometer/timme, värdet får ej vara noll eller negativt.";
+        }
+        else
+        {
+            // Beräkna miles per hour utifrån angivet värde km/h
+            mph = kmh * 0.621371192;
+            // Avrunda beräknat värde till heltal, lagra i variabel
+            mphRounded = Math.Round(mph);
+            // Sammanställ utskrift
+            message2 = mphRounded + " miles/hour.";
+        }
+    }
+}
