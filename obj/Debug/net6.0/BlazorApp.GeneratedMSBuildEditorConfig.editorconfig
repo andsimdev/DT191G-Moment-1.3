@@ -11,41 +11,41 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorApp
 build_property.RootNamespace = BlazorApp
-build_property.ProjectDir = C:\Users\simpa\Documents\Mittuniversitetet\Webbutveckling med .NET\Moment 1.3\BlazorApp\
+build_property.ProjectDir = c:\Users\simpa\Documents\Mittuniversitetet\Webbutveckling med .NET\Moment 1.3\BlazorApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\simpa\Documents\Mittuniversitetet\Webbutveckling med .NET\Moment 1.3\BlazorApp
+build_property.MSBuildProjectDirectory = c:\Users\simpa\Documents\Mittuniversitetet\Webbutveckling med .NET\Moment 1.3\BlazorApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/App.razor]
+[c:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Pages/Convert.razor]
+[c:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Pages/Convert.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udmVydC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Pages/Index.razor]
+[c:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Pages/Json.razor]
+[c:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Pages/Json.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSnNvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Shared/MainLayout.razor]
+[c:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Shared/NavMenu.razor]
+[c:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/_Imports.razor]
+[c:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Shared/Clock.razor]
+[c:/Users/simpa/Documents/Mittuniversitetet/Webbutveckling med .NET/Moment 1.3/BlazorApp/Shared/Clock.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENsb2NrLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-r02goggznq
